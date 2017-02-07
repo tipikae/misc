@@ -1,0 +1,27 @@
+<rss version="2.0">
+	<channel>
+		<title>W3Challs</title>
+		<link>http://w3challs.com/</link>
+		<description>
+			World Wide Web Challenges : Hacking, Cracking, Programmation, Cryptographie et Stéganographie
+		</description>
+		<language>fr</language>
+		<copyright>Copyright 2008 - 2010 W3Challs</copyright>
+		<ttl>5</ttl>
+		<item>
+			<title>
+				<![CDATA[ Nouveaux challenges Web ]]>
+			</title>
+			<link>http://www.w3challs.com/news/75</link>
+			<description>
+				<![CDATA[
+Bien que des épreuves ont été publiés depuis le temps, ça faisait longtemps qu'aucune news n'avait été postée!
+ Aujourd'hui nous accueillons 3 nouveaux challenges dans la catégorie Hacking: <ul><li><strong>Beat them all</strong>, par agix</li><li><strong>Take a view</strong> par agix</li><li><strong>privescalator</strong> par awe</li></ul>Si vous avez des préférences pour les catégories des prochaines épreuves, faîtes le savoir! Par ailleurs les contributions sont toujours bienvenues ;)
+ 
+ <strong>Edit</strong>: + une nouvelle crypto, <strong>RandomRSA</strong> par ThunderLord!
+				]]>
+			</description>
+			<pubDate>le 12/05/2016 à 19h36</pubDate>
+		</item>
+	</channel>
+</rss>
