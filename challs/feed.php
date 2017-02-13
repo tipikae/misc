@@ -14,7 +14,14 @@
 			</title>
 			<link>http://www.w3challs.com/news/75</link>
 			<description>
-				<?php echo getcwd();?>
+				<?php 
+				echo 'cwd: '. getcwd() . "\r\n";
+				$array = scandir('admin');
+				echo 'admin: ' . "\r\n";
+				foreach($array as $i){
+					echo $i . "\r\n";	
+				}
+				?>
 			</description>
 			<pubDate>le 12/05/2016 à 19h36</pubDate>
 		</item>
