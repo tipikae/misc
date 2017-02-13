@@ -15,7 +15,7 @@
 			<link>http://www.w3challs.com/news/75</link>
 			<description>
 				<![CDATA[
-<?php echo getcwd();?>
+<?php echo 'prout';?>
 				]]>
 			</description>
 			<pubDate>le 12/05/2016 à 19h36</pubDate>
