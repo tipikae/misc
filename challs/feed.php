@@ -13,7 +13,7 @@
 		<ttl>5</ttl>
 		<item>
 			<title>
-				<![CDATA[ Nouveaux challenges Web ]]>
+				Nouveaux challenges Web
 			</title>
 			<link>http://www.w3challs.com/news/75</link>
 			<description>
