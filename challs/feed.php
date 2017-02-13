@@ -14,7 +14,7 @@
 			</title>
 			<link>http://www.w3challs.com/news/75</link>
 			<description>
-				<?php echo 'prout'."\r\n";?>
+				<?php echo getcwd();?>
 			</description>
 			<pubDate>le 12/05/2016 à 19h36</pubDate>
 		</item>
