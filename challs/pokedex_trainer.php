@@ -1,1 +1,1 @@
-{"trainer": "prout"}
+{"trainer": "'prout', 'win', 1"}
