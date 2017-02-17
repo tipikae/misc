@@ -1,4 +1,3 @@
-{'trainer': 'prout'}
 <?php
-echo 'prout';
+sleep(10);
 ?>
