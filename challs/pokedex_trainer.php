@@ -1,3 +1,3 @@
 <script type="text/javascript">
-  var a = <?php echo json_encode('prout'); ?>;
+  var a = </script><?php echo 'prout'; ?>;<script>
 </script>
