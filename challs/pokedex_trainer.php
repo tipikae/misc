@@ -1,3 +1,3 @@
 <script type="text/javascript">
-  alert("hello!");
+  document.write('<?php echo $badge ?>');
 </script>
