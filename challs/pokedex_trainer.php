@@ -1,1 +1,1 @@
-data://text/plain;base64,c2xlZXAoMTAp
+prout ';?><script>var badge = '<?php echo $badge?>';</script><?php echo ' pouet
