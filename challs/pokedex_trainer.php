@@ -1,3 +1,3 @@
 <script type="text/javascript">
-  document.write("<?php echo $badge; ?>");
+  document.write("<?php echo 'prout'; ?>");
 </script>
