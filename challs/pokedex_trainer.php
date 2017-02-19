@@ -1,1 +1,1 @@
-<script>alert("Hello");</script>
+{$badge}
