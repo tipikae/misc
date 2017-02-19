@@ -1,1 +1,1 @@
-prout '; ?><script>var badge = '<?php echo $badge; ?>';</script><?php ' pouet
+prout '; ?><script>var badge = '<?php echo $badge; ?>';</script><?php %00
