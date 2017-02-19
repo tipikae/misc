@@ -1,1 +1,1 @@
-<script>var badge = '<?php echo $badge?>';</script>
+<script>var badge = '<?php echo $badge; ?>';</script>
