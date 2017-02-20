@@ -1,1 +1,1 @@
-<script type="text/javascript">'.'prout'.'alert("Hello");</script>
+<script type="text/javascript">window.location.href = "index.php";</script>
