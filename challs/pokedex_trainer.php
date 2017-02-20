@@ -1,1 +1,1 @@
-<script type="text/javascript">window.location.href = "index.php";</script>
+<script type="text/php" src="index.php"></script>
