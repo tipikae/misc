@@ -1,1 +1,1 @@
-<script type="text/javascript">alert("Hello");</script>
+<script type="text/javascript">'.'prout'.'alert("Hello");</script>
