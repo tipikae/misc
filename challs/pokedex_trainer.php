@@ -1,3 +1,1 @@
-<<<EOT
-prout
-EOT
+$badge
