@@ -1,1 +1,3 @@
-'.phpinfo().'
+<<<EOT
+prout
+EOT
